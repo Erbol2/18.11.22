@@ -48,10 +48,13 @@ Example 2
   align-content: space-between;
 }
 .child {
-  background-color: aliceblue;
+  background-color: rgb(104, 203, 104);
   width: 140px;
   height: 140px;
 }
 .purple {
   background-color: purple;
+}
+.blue {
+  background-color: rgb(57, 111, 198);
 }
